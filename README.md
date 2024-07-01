@@ -81,3 +81,7 @@ In my case
   </tr>
 </table>
 
+### Power analysis
+![image](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/ad37a358-25f5-434b-970a-963e730df7fb)
+
+
