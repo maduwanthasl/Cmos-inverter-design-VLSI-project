@@ -65,4 +65,16 @@ In my case
 #### Adding load capacitor
 ![add load cap](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/bc479ee5-e182-4da4-88b6-8cc41bdb4148)
 
+<table>
+  <tr>
+    <td align="center">
+      <strong>Without increasing size of fet</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/second_test/Vin%20vs%20vout.png?raw=true" alt="Vin vs Vout" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <strong>With increasing size of the fet</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/d097becb-6598-4491-9bd3-0cb2d4c8b5b6" alt="Gain vs Vout" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
 
