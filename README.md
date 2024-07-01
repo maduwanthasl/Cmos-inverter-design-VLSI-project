@@ -91,8 +91,8 @@ In my case
       <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/fd5bd570-7505-4a21-8e86-464cd01c7259" alt="Vin vs Vout" style="max-width:100%;">
     </td>
     <td align="center">
-      <strong>Simulation</strong><br>
-      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/second_test/Propergration%20delay%20cal-%20simulation.png?raw=true" alt="Gain vs Vout" style="max-width:100%;">
+      <strong>Id current</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/6a8a46ba-f2a8-4e70-a2b5-71c796933f0f" alt="Gain vs Vout" style="max-width:100%;">
     </td>
   </tr>
 </table>
