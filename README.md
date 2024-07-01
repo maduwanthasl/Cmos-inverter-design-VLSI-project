@@ -60,3 +60,4 @@ In my case
 
 - Propergration delay(tpHL) = 3.480400e-11
 - Rise time = 5.527400e-11
+- By increasing the Vin (input power) we can reduce the rise time.
