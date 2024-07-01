@@ -69,7 +69,7 @@ In my case
   <tr>
     <td align="center">
       <strong>Without increasing size of fet</strong><br>
-      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/second_test/Vin%20vs%20vout.png?raw=true" alt="Vin vs Vout" style="max-width:100%;">
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/9195e22c-e87d-428c-9fb0-76fbbbb1d508" alt="Vin vs Vout" style="max-width:100%;">
     </td>
     <td align="center">
       <strong>With increasing size of the fet</strong><br>
