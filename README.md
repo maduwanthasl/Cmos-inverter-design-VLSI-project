@@ -41,3 +41,17 @@ In my case
 - VIL(Input Low Voltage) = 7.767556e-01
 - VIH(Input High Voltage) = 1.029244e+00
 
+### Transient analysis
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Vin vs Vout</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/second_test/Vin%20vs%20Vout%20-%20tran.png?raw=true" alt="Vin vs Vout" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <strong>Simulation</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/second_test/Propergration%20delay%20cal-%20simulation.png?raw=true" alt="Gain vs Vout" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
