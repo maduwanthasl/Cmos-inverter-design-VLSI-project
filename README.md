@@ -84,4 +84,18 @@ In my case
 ### Power analysis
 ![image](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/ad37a358-25f5-434b-970a-963e730df7fb)
 
+<table>
+  <tr>
+    <td align="center">
+      <strong>Id vs Vout</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/fd5bd570-7505-4a21-8e86-464cd01c7259" alt="Vin vs Vout" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <strong>Simulation</strong><br>
+      <img src="https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/second_test/Propergration%20delay%20cal-%20simulation.png?raw=true" alt="Gain vs Vout" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
+
+
 
