@@ -6,4 +6,5 @@ This repository serves as a guide for designing a CMOS inverter using NGspice so
 - [CMOS Inverter Input-Output Characteristics](#vinvsvut)
 
 ## CMOS Inverter Input-Output Characteristics
+#### Circuit
 
