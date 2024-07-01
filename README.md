@@ -36,5 +36,6 @@ To find the noise margin run following code.
 meas vil dc find vin when gain=1 cross=1
 meas vil dc find vin when gain=1 cross=last
 ```
-
+VIL(Input Low Voltage) = 7.767556e-01
+VIH(Input High Voltage) = 1.029244e+00
 
