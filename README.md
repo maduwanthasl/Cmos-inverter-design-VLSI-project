@@ -61,3 +61,8 @@ In my case
 - Propergration delay(tpHL) = 3.480400e-11
 - Rise time = 5.527400e-11
 - By increasing the Vin (input power), size of the fet or reducing output capacitance we can reduce the rise time.
+
+#### Adding load capacitor
+![add load cap](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/assets/107339150/bc479ee5-e182-4da4-88b6-8cc41bdb4148)
+
+
