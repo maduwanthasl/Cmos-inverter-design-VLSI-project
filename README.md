@@ -30,4 +30,11 @@ plot vin vs vout
 let gain=(abs(deriv(vout) >= 1)*1.8
 plot gain vout
 ```
+#### Noise margin
+To find the noise margin run following code.
+```sh
+meas vil dc find vin when gain=1 cross=1
+meas vil dc find vin when gain=1 cross=last
+```
+
 
