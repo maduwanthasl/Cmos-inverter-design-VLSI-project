@@ -4,6 +4,9 @@ This repository serves as a guide for designing a CMOS inverter using NGspice so
 
 ## 📋 Table of Contents
 - [CMOS Inverter Input-Output Characteristics](#vinvsvut)
+- [DC analysis](#dcanalyis)
+- [Transient analysis](#transientanalysis)
+- [Power analysis](#poweranalysis)
 
 ## CMOS Inverter Input-Output Characteristics
 #### Circuit
