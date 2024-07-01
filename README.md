@@ -22,3 +22,12 @@ This repository serves as a guide for designing a CMOS inverter using NGspice so
     </td>
   </tr>
 </table>
+
+#### Simulation code
+```sh
+display
+plot vin vs vout
+let gain=(abs(deriv(vout) >= 1)*1.8
+plot gain vout
+```
+
