@@ -55,3 +55,4 @@ In my case
     </td>
   </tr>
 </table>
+In my case Propergration delay(tpHL) = 3.480400e-11
