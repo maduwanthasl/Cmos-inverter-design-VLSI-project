@@ -98,4 +98,5 @@ In my case
 </table>
 
 
-
+### Layout design
+![image](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/Layout%20design/Layout%20design.png)
