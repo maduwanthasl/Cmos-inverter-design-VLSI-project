@@ -1,0 +1,9 @@
+* NGSPICE file created from pdkfile.ext - technology: sky130A
+
+.subckt pdkfile
+X0 out in vss vss sky130_fd_pr__nfet_01v8 ad=0.45 pd=2.9 as=0.45 ps=2.9 w=1 l=0.15
+**devattr s=18000,580 d=18000,580
+X1 out in vdd vdd sky130_fd_pr__pfet_01v8 ad=0.7 pd=4.7 as=0.7 ps=4.7 w=2 l=0.15
+**devattr s=28000,940 d=28000,940
+.ends
+
