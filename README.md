@@ -100,6 +100,8 @@ In my case
 
 ### Layout design
 ![image](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/Layout%20design/Layout%20design.png)
+![image1](https://github.com/user-attachments/assets/15625718-0b63-4679-9f7b-7767c2de8c04)
+
 
 ### Spice netlist generated
 ![spice netlist generated](https://github.com/maduwanthasl/Cmos-inverter-design-VLSI-project/blob/main/Layout%20design/Generated%20spice.png)
